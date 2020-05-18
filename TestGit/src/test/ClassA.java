@@ -2,6 +2,11 @@ package test;
 
 public class ClassA {
 	public static void main(String[] args) {
-		System.out.println("dev1.2");
+		System.out.println("dev1.0");
+		//1.0asdfasdf
+		//asdfasdfas
+		//asdfasdfasd
+		//asdfasdf
+		//1/1234123124
 	}
 }
